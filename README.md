@@ -6,8 +6,8 @@ En este repositorio se encontraran las soluciones a los ejercicios propuestos po
 
  Nombre archivo | Descripcion |
 | ----------- | ----------- |
-|palindromo.py   | función que permite conocer si un string es un palíndromo o no|
-
+|palindromo.py   | Función que permite conocer si un string es un palíndromo o no.|
+|sequence.py   |  Funcion para detectar secuencias de ARN en una cadena.|
 
 <h3> 🔗 Fuente </h3>
 
